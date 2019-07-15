@@ -1,0 +1,8 @@
+{
+      "apikey": "rHtP6LsIruEQsiSmfCToe7dDfv0wHAhr8LGu3r8P_7rA",
+      "iam_apikey_description": "Auto-generated for key 01c9c427-8111-4756-8501-4fa1051c4f51",
+      "iam_apikey_name": "wdp-writer",
+      "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+      "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/7e08a1bfaf84401684f7a4efc465c246::serviceid:ServiceId-24896330-29d3-47f3-8c2b-61e86f7b2209",
+      "url": "https://gateway.watsonplatform.net/visual-recognition/api",
+}
